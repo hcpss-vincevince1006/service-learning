@@ -1,0 +1,8 @@
+# Site settings
+
+baseurl: "/service-learning/"
+pretty: no
+
+# Build settings
+markdown: kramdown
+exclude: [Guardfile]
